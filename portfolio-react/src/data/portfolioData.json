@@ -1,0 +1,126 @@
+{
+  "personal": {
+    "name": "Harsh Wardhan",
+    "role": "Full Stack Developer",
+    "bio": "Motivated and detail-oriented B.Tech student with a strong foundation in Java, data structures, and web development. Experienced in building real-world applications through academic projects and internships. Actively involved in the Career Development Cell, contributing to event coordination and team collaboration.",
+    "email": "harshkashyap1221@gmail.com",
+    "location": "Dehradun, Uttarakhand",
+    "resumeUrl": "/resume.pdf",
+    "socials": {
+      "github": "https://github.com/",
+      "linkedin": "https://www.linkedin.com/in/harsh-wardhan-399662254/",
+      "twitter": "https://twitter.com/"
+    }
+  },
+  "skills": [
+    "Java",
+    "JavaScript",
+    "JS/React/Angular/Node.js",
+    "MongoDB & SQL",
+    "Data Structures & Algorithms (250+)",
+    "Problem Solving",
+    "Team Management"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Technology (CSE)",
+      "institution": "DIT University, Dehradun, Uttarakhand",
+      "duration": "2023 - 2027",
+      "score": "CGPA: 7.95"
+    },
+    {
+      "degree": "Intermediate (CBSE)",
+      "institution": "Trident Public School, Muzaffarpur, Bihar",
+      "duration": "2020 - 2022",
+      "score": "Percentage: 71.20%"
+    },
+    {
+      "degree": "Matriculation (CBSE)",
+      "institution": "Mother Teresa Academy, Darbhanga, Bihar",
+      "duration": "2019 - 2020",
+      "score": "Percentage: 78.00%"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Linux Fundamentals",
+      "issuer": "LearnQuest (Coursera)",
+      "date": "Feb 2025",
+      "description": "Online non-credit course authorized by LearnQuest and offered through Coursera."
+    },
+    {
+      "name": "Introduction to Java",
+      "issuer": "LearnQuest (Coursera)",
+      "date": "2024",
+      "description": "Learned object-oriented programming concepts, syntax, basic data structures, and hands-on programming in Java."
+    },
+    {
+      "name": "Database Management Essentials",
+      "issuer": "University of Colorado System",
+      "date": "2024",
+      "description": "Learned core database concepts including data models, normalization, relational database design, and practical SQL skills."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Java Development Intern",
+      "company": "Code Alpha",
+      "duration": "Nov 2024 - Dec 2024",
+      "description": "Developed a Hotel Management System for room bookings and billing. Built a Simple Banking App for transactions and a Student Grade Tracker to record performance."
+    },
+    {
+      "role": "Student Coordinator",
+      "company": "Career Development Cell, DIT University",
+      "duration": "Present",
+      "description": "Coordinated and managed multiple college events, collaborating with student committees and faculty, and handling logistics and on-ground operations."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "slug": "ecommerce-platform",
+      "title": "E-Commerce Platform",
+      "description": "A full-stack e-commerce solution featuring secure payment integration, user authentication, and an admin dashboard.",
+      "tech": ["React", "Node.js", "MongoDB", "Express"],
+      "githubUrl": "https://github.com/",
+      "liveUrl": "https://example.com"
+    },
+    {
+      "id": 2,
+      "slug": "task-management-app",
+      "title": "Task Management App",
+      "description": "A minimalist productivity tool with drag-and-drop features and real-time synchronization.",
+      "tech": ["React", "Firebase", "CSS Modules"],
+      "githubUrl": "https://github.com/",
+      "liveUrl": "https://example.com"
+    },
+    {
+      "id": 3,
+      "slug": "finance-dashboard",
+      "title": "Finance Dashboard",
+      "description": "Interactive data visualization dashboard for personal finance tracking.",
+      "tech": ["React", "Chart.js", "Styled Components"],
+      "githubUrl": "https://github.com/",
+      "liveUrl": "https://example.com"
+    }
+  ],
+  "dsa": {
+    "leetcode": {
+      "solved": 250,
+      "easy": 100,
+      "medium": 120,
+      "hard": 30,
+      "profileUrl": "https://leetcode.com/"
+    },
+    "gfg": {
+      "problemsSolvingRating": "4 Star",
+      "solved": 50,
+      "profileUrl": "https://auth.geeksforgeeks.org/user/"
+    },
+    "codechef": {
+      "rating": 1650,
+      "stars": "3 Star",
+      "profileUrl": "https://www.codechef.com/users/"
+    }
+  }
+}
